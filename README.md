@@ -1,9 +1,3 @@
-Got it! Since your models were trained in **Google Colab** and not saved locally, we can update the README to reflect that. I can also make a **fully visually stunning GitHub README** with badges, GIF placeholders for charts, and professional formatting that will impress faculty.
-
-Here’s the updated version:
-
----
-
 # 🧠 Three-Level Depression Classification in Banglish Social Media Posts Using NLP
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge) ![NLP](https://img.shields.io/badge/Tech-NLP-orange?style=for-the-badge) ![ML](https://img.shields.io/badge/ML%2FDL-Models-purple?style=for-the-badge)
