@@ -70,12 +70,6 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 * **Metric Breakdown:** Individual model metrics.
 * **Model Ranking:** Ranked by F1-Score.
 * **Overall Comparison:** All models compared visually using bar charts.
-
-*Placeholder GIFs for charts can be added here:*
-![Metric Breakdown](https://via.placeholder.com/600x300.png?text=Metric+Breakdown+Chart)
-![Model Ranking](https://via.placeholder.com/600x300.png?text=Model+Ranking+Chart)
-![Overall Comparison](https://via.placeholder.com/600x300.png?text=Overall+Comparison+Chart)
-
 ---
 
 ## ⚡ Potential Applications
@@ -112,9 +106,4 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 ## 👩‍💻 Author
 
 **Pranta Das**
-East Delta University
 
-
-
-
-Do you want me to do that next?
