@@ -11,6 +11,8 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 
 **Models were trained in Google Colab** using Python, TensorFlow/Keras, and scikit-learn, ensuring scalability and reproducibility.
 
+🔗 **Live App:** [Three-Level Banglish Depression Classifier](https://three-stage-banglish-depression-classifier.streamlit.app/)
+
 ---
 
 ## 📌 Features
@@ -70,6 +72,7 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 * **Metric Breakdown:** Individual model metrics.
 * **Model Ranking:** Ranked by F1-Score.
 * **Overall Comparison:** All models compared visually using bar charts.
+
 ---
 
 ## ⚡ Potential Applications
@@ -92,16 +95,16 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 ## 📂 Project Structure
 
 ```
-├── data/
-│   └── banglish_posts.csv
-├── notebooks/
-│   └── model_training.ipynb  
-├── model_metrics.json        
-├── app.py                    
+Banglish-Depression-Classifier/
+├── .devcontainer/                  
+├── Banglish_depression_dataset.csv .
+├── Banglish_Depression_classifier_final.ipynb
+├── app.py                 
+├── model_metrics.json             .
+├── requirements.txt             
 └── README.md
 ```
 
----
 
 ## 👩‍💻 Author
 
