@@ -27,7 +27,7 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
   * LSTM
 * Computes performance metrics: **Accuracy, Precision, Recall, F1-Score**
 * Provides **model comparison and ranking** using charts
-* Designed for **academic and research purposes** in mental health monitoring
+* Designed for **academic purposes** in mental health monitoring
 
 ---
 
@@ -88,7 +88,7 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 * Integrate with **real-time social media streams**.
 * Explore **transformer-based NLP models** (BERT, BanglaBERT).
 * Multi-lingual support including Bangla-only posts.
-* Deployment as **interactive dashboards or APIs**.
+* Deployment as **interactive dashboards**.
 
 ---
 
