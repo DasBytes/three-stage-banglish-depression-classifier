@@ -22,7 +22,6 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 
   * Logistic Regression
   * Random Forest
-  * Support Vector Machine (SVM)
   * ANN / MLP
   * LSTM
 * Computes performance metrics: **Accuracy, Precision, Recall, F1-Score**
@@ -39,7 +38,6 @@ It is designed to automatically detect depression signals in **Banglish (Bangla-
 | Logistic Regression | 93.96%   | 93.96%    | 93.96% | 93.96%   |
 | LSTM                | 87.76%   | 88.44%    | 87.76% | 87.64%   |
 | ANN MLP             | 81.93%   | 81.90%    | 81.93% | 81.86%   |
-| SVM                 | 85.35%   | 85.85%    | 85.35% | 85.53%   |
 
 **💡 Insight:** Random Forest achieved the **highest F1-score**, making it the most reliable model for this dataset.
 
